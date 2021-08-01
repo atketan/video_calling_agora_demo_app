@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "504927776618",
+    "firebase_url": "https://flutter-video-calling-demo.firebaseio.com",
+    "project_id": "flutter-video-calling-demo",
+    "storage_bucket": "flutter-video-calling-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504927776618:android:814b15691612fe7f833f13",
+        "android_client_info": {
+          "package_name": "com.a7hooks.video_calling_agora_demo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504927776618-8oshnk05a1d1andliggcpm2s5v8rlofa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.a7hooks.video_calling_agora_demo_app",
+            "certificate_hash": "ce4e3d5138de5d6d8a57e4e5a3c2a7534365c67f"
+          }
+        },
+        {
+          "client_id": "504927776618-45sbag6a72n8uca2al9fbcbe4crkuhdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbT6JmdY-aYmQXCXs8Uk3b1nALSOCyXBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504927776618-45sbag6a72n8uca2al9fbcbe4crkuhdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
